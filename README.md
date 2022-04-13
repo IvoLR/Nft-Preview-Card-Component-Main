@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Nft-Preview-Card-Component-Main
-
-Frontend Mentor - Challenges
-=======
 # Frontend Mentor - NFT Preview Card Component Main
 
 ![FireShot Capture 003 - Frontend Mentor - NFT preview card component - 127 0 0 1](https://user-images.githubusercontent.com/103017821/163085920-c7b5258c-a32d-4a5d-936d-c209a6c94a36.png)
@@ -22,4 +17,3 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## :closed_book: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/IvoLR/Nft-Preview-Card-Component-Main/blob/ec4bf734871ddccf56f439574028643cbd2f7d72/LICENSE) para mais detalhes.
->>>>>>> b61683683e85c66cd9eea68fdc76d5268e774ed8
